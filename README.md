@@ -2,7 +2,9 @@
 
 This project analyzes 311 service request data sourced from the [City of Vancouver](https://opendata.vancouver.ca/explore/dataset/3-1-1-service-requests/information/?disjunctive.service_request_type&disjunctive.status&disjunctive.channel&disjunctive.local_area&disjunctive.department&disjunctive.closure_reason) using SQL for exploratory data analysis and Tableau for data transformation and dashboard creation. The dashboard surfaces key insights into public service delivery trends, geographic distribution, resolution performance, and request types.
 
-🔗 **Dashboard Link**: [View the Tableau Dashboard](https://public.tableau.com/views/311_van_complaints/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<a href="https://public.tableau.com/app/profile/nadim.khan2804/viz/311_van_complaints/Dashboard1">
+  <img src="https://img.shields.io/badge/View-Tableau%20Dashboard-blue" width="200"/>
+</a>
 
 ## Project Scope
 
